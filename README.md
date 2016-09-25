@@ -8,6 +8,15 @@
 ## Butler
 _More about the butler project here._
 
+## Configuration
+This plugin requires configuration to work correctly. In your butler project add the following properties to the `config.json` file.
+
+```
+"weahter": {
+	"apikey": "aun45oed1exrx82nf7n67m"
+}
+```
+
 ## Enable / Install
 Enabling this plugin for your Butler bot is as easy as requiring the package.
 ```javascript
